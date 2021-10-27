@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oddEl{
+    background-color: salmon;
+}
+
+#number2{
+    color: blue;
+    font-size: 3rem;
+}
+
+.oddEl:nth-of-type(2){
+    font-size: 1.5rem;
+}
+
+#number4{
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: lightgreen;
+}
+
